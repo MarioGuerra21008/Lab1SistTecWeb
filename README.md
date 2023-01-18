@@ -66,3 +66,6 @@ El post utilizado fue el siguiente:
 
 ![image](https://user-images.githubusercontent.com/88167635/213066215-30a60403-edd8-4709-b39b-fe15720c3140.png)
 
+(10 puntos) Traduzcan la siguiente frase a clave morse: ye shall be as gods
+
+![image](https://user-images.githubusercontent.com/88167635/213068482-15ee631c-2d57-41e1-92db-0d3dd9ce5cb3.png)
