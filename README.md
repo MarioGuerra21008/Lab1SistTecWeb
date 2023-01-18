@@ -49,3 +49,12 @@ reader is familiar with the concepts discussed in this memo.
 (10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
 
 ![image](https://user-images.githubusercontent.com/88167635/213062904-05cfe956-a23f-4bc0-95c3-0cba214bc70b.png)
+
+(10 puntos) Busquen en usenet y escojan algún post interesante.
+
+El post utilizado fue el siguiente: 
+
+![image](https://user-images.githubusercontent.com/88167635/213064473-ebffa464-77c8-4925-9f21-8dd0022d5314.png)
+
+![image](https://user-images.githubusercontent.com/88167635/213064375-808a9cd7-9e72-4261-af84-8fb28b04a527.png)
+
