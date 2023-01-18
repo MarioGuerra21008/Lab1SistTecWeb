@@ -69,3 +69,8 @@ El post utilizado fue el siguiente:
 (10 puntos) Traduzcan la siguiente frase a clave morse: ye shall be as gods
 
 ![image](https://user-images.githubusercontent.com/88167635/213068482-15ee631c-2d57-41e1-92db-0d3dd9ce5cb3.png)
+
+(5 puntos) Generen un código qr (ascii) para la frase:
+May the command line live forever
+
+![image](https://user-images.githubusercontent.com/88167635/213070758-b4597369-4443-4cf9-840c-1de54d39c975.png)
