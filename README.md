@@ -58,3 +58,7 @@ El post utilizado fue el siguiente:
 
 ![image](https://user-images.githubusercontent.com/88167635/213064375-808a9cd7-9e72-4261-af84-8fb28b04a527.png)
 
+(10 puntos) ¿Cómo pide auxilio una vaca paranoica?
+
+![image](https://user-images.githubusercontent.com/88167635/213065505-fb87a1bf-c498-4075-be4d-e51f0097a765.png)
+
