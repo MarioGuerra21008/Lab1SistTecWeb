@@ -62,3 +62,7 @@ El post utilizado fue el siguiente:
 
 ![image](https://user-images.githubusercontent.com/88167635/213065505-fb87a1bf-c498-4075-be4d-e51f0097a765.png)
 
+(20 puntos) ¿Cuál es el output de éste programa de Brainf*ck? ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.------.--------.>+.>.
+
+![image](https://user-images.githubusercontent.com/88167635/213066215-30a60403-edd8-4709-b39b-fe15720c3140.png)
+
