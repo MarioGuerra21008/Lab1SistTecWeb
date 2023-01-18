@@ -37,7 +37,7 @@ I.  DEFINITION OF THE NETWORK VIRTUAL TERMINAL
 
 2. 1034 Domain Concepts and Facilities, noviembre de 1987.
 
-1. STATUS OF THIS MEMO
+STATUS OF THIS MEMO
 
 This RFC is an introduction to the Domain Name System (DNS), and omits
 many details which can be found in a companion RFC, "Domain Names -
@@ -45,3 +45,7 @@ Implementation and Specification" [RFC-1035].  That RFC assumes that the
 reader is familiar with the concepts discussed in this memo.
 
 ![image](https://user-images.githubusercontent.com/88167635/213061377-92c61834-b232-4fed-9cbe-0c86e34a4c67.png)
+
+(10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+
+![image](https://user-images.githubusercontent.com/88167635/213062904-05cfe956-a23f-4bc0-95c3-0cba214bc70b.png)
